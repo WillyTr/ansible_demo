@@ -2,4 +2,4 @@
 credentials:
   host: "{{ junos_host }}"
   username: ansible
-  password: ansible
+  password: Ansible
