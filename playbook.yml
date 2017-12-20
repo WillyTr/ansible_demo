@@ -21,6 +21,7 @@
       
   vars_files: 
     - vars/users.yml 
+    - global_vars/all.yml
 
 #    
 #- 
