@@ -1,0 +1,15 @@
+
+---
+users:
+ - 
+  name: guille
+  full_name: Guille T
+  password: $6$AN1fFn1q$63bOZD6NG0bDfOhrBXfLIoJIwNEWEE4iaZHRNnO24uHm0ZTTOJz/B4EHIXowL.sshC5OhA/mQltz1.X/xL/L0/
+  class: super-user
+  uid: 2000
+ -
+  name: pedro
+  full_name: Pedro T
+  password: $6$AN1fFn1q$63bOZD6NG0bDfOhrBXfLIoJIwNEWEE4iaZHRNnO24uHm0ZTTOJz/B4EHIXowL.sshC5OhA/mQltz1.X/xL/L0/
+  class: super-user
+  uid: 2020
