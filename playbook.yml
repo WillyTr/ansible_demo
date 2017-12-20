@@ -19,10 +19,6 @@
         host: "{{junos_host}}"
       name: "install users"
       
-  vars_files: 
-    - vars/users.yml 
-    - group_vars/all.yml
-
 #    
 #- 
 #  connection: local
