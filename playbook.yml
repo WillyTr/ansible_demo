@@ -19,8 +19,8 @@
         host: "{{junos_host}}"
       name: "install users"
       
-#  vars_files: 
-#    - vars/vpls-b1.yml 
+  vars_files: 
+    - vars/users.yml 
 
 #    
 #- 
