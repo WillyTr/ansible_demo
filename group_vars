@@ -1,5 +1,0 @@
----
-credentials:
-  host: "{{ junos_host }}"
-  username: root
-  password: junos!
