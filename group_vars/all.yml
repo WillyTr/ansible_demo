@@ -1,5 +1,5 @@
 ---
 credentials:
-  host: "{{junos_host}}"
+  host: "{{ junos_host }}"
   username: ansible
   password: Ansible
